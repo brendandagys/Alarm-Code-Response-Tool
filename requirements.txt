@@ -65,7 +65,7 @@ py==1.8.0
 pyasn1==0.4.5
 pyasn1-modules==0.2.5
 pycparser==2.19
-Pygments==2.3.1
+Pygments==2.7.4
 PyHamcrest==1.9.0
 pynput==1.4.2
 pyOpenSSL==19.0.0
